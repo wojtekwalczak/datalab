@@ -20,7 +20,4 @@ Saving plot to: results/yt_playlist_views/PL84A56BC7F4A1F852.png
 
 This will produce a plot similar to the one presented below:
 
-![alt tag]()
-
-
-
+![alt tag](https://github.com/wojtekwalczak/datalab/raw/master/results/yt_playlist_views/PL84A56BC7F4A1F852.png)
